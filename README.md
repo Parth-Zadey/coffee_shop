@@ -53,9 +53,9 @@ The menu and prices are defined directly in the Python application.
 ## 📂 Project Structure
 
 ```text
-coffee-ordering-app/
+coffee_shop/
 │
-├── coffee_ordering.py
+├── coffee_shop.py
 └── README.md
 ```
 
@@ -64,19 +64,19 @@ coffee-ordering-app/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/coffee-ordering-app.git
+git clone https://github.com/your-username/coffee_shop.git
 ```
 
 ### 2. Navigate to the Project Folder
 
 ```bash
-cd coffee-ordering-app
+cd coffee_shop-app
 ```
 
 ### 3. Run the Application
 
 ```bash
-python coffee_ordering.py
+python coffee_shop.py
 ```
 
 The Tkinter window will open automatically.
